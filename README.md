@@ -6,7 +6,7 @@ This project aims to predict house prices in Boston using supervised machine lea
 
 Features
 Data Preprocessing: Handling missing values, feature scaling, and feature engineering.
-Models Used: Multiple Linear Regression, Decision Trees, Random Forest, etc.
+Models Used: Decision Trees, Random Forest Regressor, Support Vector Regressor (SVR), XGBoost Regressor etc.
 Evaluation Metrics: Mean Squared Error, R-squared value.
 Tools and Libraries: Python, scikit-learn, TensorFlow, pandas, NumPy.
 Results
